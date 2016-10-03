@@ -9,7 +9,6 @@ import org.bukkit.plugin.java.JavaPlugin;
 /**
  * Created by tim740 on 03/10/2016
  */
-
 public class skGlide extends JavaPlugin {
 
     @Override
