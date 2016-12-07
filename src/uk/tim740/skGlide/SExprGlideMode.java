@@ -15,7 +15,7 @@ import javax.annotation.Nullable;
  * Created by tim740 on 13/03/2016
  */
 
-class SExprGlideMode extends SimpleExpression<Boolean> {
+public class SExprGlideMode extends SimpleExpression<Boolean> {
     private Expression<LivingEntity> ent;
 
     @Override

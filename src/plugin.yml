@@ -3,5 +3,5 @@ description: An addon for gliding stuff in minecraft
 author: tim740
 website: https://tim740.github.io/
 main: uk.tim740.skGlide.skGlide
-version: 0.1.0
+version: 0.1.1
 depend: [Skript]
